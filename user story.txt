@@ -1,0 +1,51 @@
+
+User stories:
+A user story is an informal, general explanation of a software feature written from the perspective of the end user. 
+Its purpose is to articulate how a software feature will provide value to the customer.
+
+
+What Is a Good User Story?
+ --three aspects that Ron Jeffries named in 2001 
+with the wonderful alliteration of card, conversation, and confirmation:
+
+3C's:
+Card: Written description of the story, used for planning and as a reminder
+Conversation: Conversations about the story that serve to flesh out the details of the story
+Confirmation: Tests that convey and document details that can be used to determine when a story is complete.
+
+Template:
+As a < type of user >, I want < some goal > so that < some reason >
+
+Acceptance Criteria:
+The acceptance criteria is a set of accepted conditions or business rules for which the functionality or feature should satisfy and meet
+
+When to write Acceptance Criteria?
+Acceptance criteria (AC) should be written anytime before the user story is ready to enter the Sprint Planning.
+
+
+Why acceptance criteria important ?
+Provide clear guidelines — 
+Acceptance criteria outline what is expected from a product or feature. 
+This clarity helps to align all stakeholders, including developers, testers, and the business team, on what needs to be achieved
+
+Facilitate and understanding across teams — 
+By clearly defining the expected outcome of a feature or product, everyone knows what to aim for and what will be considered a success, 
+in turn minimizing the potential for misunderstandings
+
+Form a basis for testing — 
+Testers can use acceptance criteria to determine whether a product or feature works as intended. 
+If the developed feature meets all the outlined conditions, it can be marked as complete
+
+Help manage customer expectations and enhance satisfaction — 
+When customers are involved in defining acceptance criteria, they have a better understanding of what to expect from the final product, 
+leading to increased satisfaction when those expectations are met
+
+Example-1:
+
+As a <student>, I want <to be able to enroll in courses online> so that <for knowledge>.
+Acceptance Criteria:
+1.Available courses with descriptions and enrollment buttons.
+2.After enrolling a course it should add to list of enrolled courses.
+3.An email notification about registered course and course hours.
+4.After completing course, print certificate.
+
